@@ -1,7 +1,7 @@
 ## Reproducible Machine Learning Model Template 
 
 This template can be used for the projects and to bundle them as a package.
-Template consists of python files related to below functions,
+Template consists of python files related to functions as mentioned,
 - Create Folds
 - Dispatcher
 - Engine
