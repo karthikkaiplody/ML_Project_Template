@@ -10,6 +10,7 @@ Template consists of python files related to functions as mentioned,
 - Metrics
 - Predict
 - Train
+- Data
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
